@@ -1,7 +1,7 @@
 # Python Project Pacman - Super Cashier
 
 ## Objective
-Untuk memepermudah dan mempercepat pelanggan dalam berbelanja dengan menggunakan self-service kasir untuk menginput semua item yang dibeli oleh pelanggan
+Mempermudah dan mempercepat proses berbelanja pelanggan, dengan menggunakan self-service kasir, dalam menginput semua item yang dibeli oleh pelanggan
 
 ## Requirements
 
