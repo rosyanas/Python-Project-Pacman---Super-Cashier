@@ -6,7 +6,7 @@
 
 | Nama | Type | Input | Output | Note |
 | -- | -- | -- | -- | -- | 
-| Discount | Class | `min_price` (int) <br> `discount` (int)|  |  |
+| Discount | Class | `min_price` (int) <br> `discount` (int)|  | 1. >= Rp 200.000 disc. 5% <br>2. >= Rp 300.000 disc. 8% <br>3. >= Rp 500.000 disc. 10% |
 | Transaction | Class | `username` <br> `order_detail` | `transaction_id` |  |
 | `add_item()` | Method in Transaction | `item_name` (str) <br> `quantity` (int) <br> `price_per_item` (int) |  |  |
 | `update_item_name()` | Method in Transaction | `item_name` (str) <br> `new_item_name` (str) |  |  |
