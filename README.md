@@ -21,3 +21,6 @@ Mempermudah dan mempercepat proses berbelanja pelanggan, dengan menggunakan self
 
 ## Flowchart
 ![Flowchart  Python Project Pacman - Super Cashier](https://user-images.githubusercontent.com/61444164/229751369-656600f5-7440-4304-b416-a5a6265a118b.jpg)
+
+## Tutorial Code
+https://www.youtube.com/watch?v=r3x6TGtZSgM&t=891s 
